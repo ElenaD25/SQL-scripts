@@ -1,4 +1,4 @@
-
+---used for CRC module at first
 
 create proc InsertArrayOfJsons @json nvarchar(max), @ref_date date
 as
